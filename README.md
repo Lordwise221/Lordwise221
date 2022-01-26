@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Some Programming Languages...
 - 💞️ I’m looking to collaborate on Fullstack Developers...
 - 📫 How to reach me ...lordwise221@gmail.com
-- 
+- https://github.com/Lordwise221/Lordwise221.git
 
 <!---
 Lordwise221/Lordwise221 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
